@@ -1,5 +1,4 @@
 import os
+#we are using os module to get the files
 print(os.listdir())
-print (os.get_block(path))
-
-print ("hell0")
+print (os.getcwd())
